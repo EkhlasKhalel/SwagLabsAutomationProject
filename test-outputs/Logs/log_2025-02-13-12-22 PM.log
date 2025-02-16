@@ -1,0 +1,7 @@
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC05_overViewPage.setup(TC05_overViewPage.java:32)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC05_overViewPage.setup(TC05_overViewPage.java:34)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber1
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber2
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC05_overViewPage.checkOutStep2Tc(TC05_overViewPage.java:48)] - fTest-2025-02-13-7-12-16PM fTest-2025-02-13-7-12-16PM 47283
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P05_overViewPage.calculateTotalPrice(P05_overViewPage.java:38)] -  Calculated total price: 43.18
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P05_overViewPage.getTotal(P05_overViewPage.java:33)] - Actual total price: 43.18

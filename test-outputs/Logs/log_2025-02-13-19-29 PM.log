@@ -1,0 +1,5 @@
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC06_CompletePage.setup(TC06_CompletePage.java:31)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC06_CompletePage.setup(TC06_CompletePage.java:33)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber2
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber3
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC06_CompletePage.finishingOrder(TC06_CompletePage.java:47)] - fTest-2025-02-13-6-19-25PM fTest-2025-02-13-6-19-25PM 81364

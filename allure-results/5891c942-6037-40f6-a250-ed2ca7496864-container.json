@@ -1,0 +1,1 @@
+{"uuid":"5891c942-6037-40f6-a250-ed2ca7496864","name":"Tests.TC02_LandingPage.quit","children":["fd240311-fafd-4de2-9611-5f46f446cef1"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1739647049477,"stop":1739647050482}],"start":1739647049477,"stop":1739647050482}

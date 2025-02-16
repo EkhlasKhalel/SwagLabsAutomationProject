@@ -1,0 +1,2 @@
+[INFO] $d{yyyy-mm-dd-mm-ss a} main [Tests.TC02_LandingPage.setup(TC02_LandingPage.java:23)] - chrome driver is opened
+[INFO] $d{yyyy-mm-dd-mm-ss a} main [Tests.TC02_LandingPage.setup(TC02_LandingPage.java:25)] - page is redirected to url

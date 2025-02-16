@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CheckoutSuite">
+    <listeners>
+        <listener class-name="Listeners.CustomITestResult"/>
+        <listener class-name="Listeners.IInvokedMethod"/>
+    </listeners>
+
+    <test name="CheckoutTest">
+        <classes>
+            <class name="Tests.TC04_CheckOutPage"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,8 @@
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.T03_CartPage.setup(T03_CartPage.java:28)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.T03_CartPage.setup(T03_CartPage.java:30)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:11)] - test casecomparingPricesTcstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber2
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber6
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.getTotalPriceOfSelectedProducts(P02_LandingPage.java:81)] - totalPrice25.98
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P03_CartPage.getTotalPriceOfProducts(P03_CartPage.java:28)] - totalPrice25.98
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestSuccess(CustomITestResult.java:15)] - test casecomparingPricesTcsuccess

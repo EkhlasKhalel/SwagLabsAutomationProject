@@ -1,0 +1,4 @@
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC04_CheckOutPage.setup(TC04_CheckOutPage.java:33)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC04_CheckOutPage.setup(TC04_CheckOutPage.java:35)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber2
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber3

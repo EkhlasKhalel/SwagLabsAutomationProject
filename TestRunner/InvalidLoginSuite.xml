@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="InvalidLoginSuite">
+    <listeners>
+        <listener class-name="Listeners.CustomITestResult"/>
+        <listener class-name="Listeners.IInvokedMethod"/>
+    </listeners>
+
+    <test name="InvalidLoginTest">
+        <classes>
+            <class name="Tests.T02_LoginPageWithInvalidData"/>
+        </classes>
+    </test>
+</suite>

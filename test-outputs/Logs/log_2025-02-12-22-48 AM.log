@@ -1,0 +1,4 @@
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC01_LoginPage.setup(TC01_LoginPage.java:26)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC01_LoginPage.setup(TC01_LoginPage.java:28)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:11)] - test casevalidLoginTcstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestSuccess(CustomITestResult.java:15)] - test casevalidLoginTcsuccess

@@ -1,0 +1,2 @@
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC04_CheckOutPage.setup(TC04_CheckOutPage.java:33)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC04_CheckOutPage.setup(TC04_CheckOutPage.java:35)] - page is redirected to url

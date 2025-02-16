@@ -1,0 +1,58 @@
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.T03_CartPage.setup(T03_CartPage.java:28)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.T03_CartPage.setup(T03_CartPage.java:30)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:11)] - test casecomparingPricesTcstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber2
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber3
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.getTotalPriceOfSelectedProducts(P02_LandingPage.java:81)] - totalPrice25.98
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P03_CartPage.getTotalPriceOfProducts(P03_CartPage.java:28)] - totalPrice25.98
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestSuccess(CustomITestResult.java:15)] - test casecomparingPricesTcsuccess
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC05_overViewPage.setup(TC05_overViewPage.java:32)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC05_overViewPage.setup(TC05_overViewPage.java:34)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:11)] - test casecheckOutStep2Tcstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber3
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber6
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC05_overViewPage.checkOutStep2Tc(TC05_overViewPage.java:48)] - fTest-2025-02-15-9-8-01PM fTest-2025-02-15-9-8-01PM 80116
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P05_overViewPage.calculateTotalPrice(P05_overViewPage.java:41)] -  Calculated total price: 34.54
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P05_overViewPage.getTotal(P05_overViewPage.java:33)] - Actual total price: 34.54
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestSuccess(CustomITestResult.java:15)] - test casecheckOutStep2Tcsuccess
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC04_CheckOutPage.setup(TC04_CheckOutPage.java:33)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC04_CheckOutPage.setup(TC04_CheckOutPage.java:35)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:11)] - test casecheckOutStep1Tcstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber4
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber5
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestSuccess(CustomITestResult.java:15)] - test casecheckOutStep1Tcsuccess
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC02_LandingPage.setup(TC02_LandingPage.java:23)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC02_LandingPage.setup(TC02_LandingPage.java:25)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:11)] - test caseaddingRandomProductsToCartstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber2
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber5
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber6
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.getnumberOfProductsOnCartIcon(P02_LandingPage.java:43)] - number of products on cart :3
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.getnumberOfSelectedProducts(P02_LandingPage.java:54)] - numberOfSelectedProducts:3
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestSuccess(CustomITestResult.java:15)] - test caseaddingRandomProductsToCartsuccess
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC02_LandingPage.setup(TC02_LandingPage.java:23)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC02_LandingPage.setup(TC02_LandingPage.java:25)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:11)] - test casecheckingNumberOfSelectedProductsTcstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:33)] - number of all products:6
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.getnumberOfProductsOnCartIcon(P02_LandingPage.java:43)] - number of products on cart :6
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.getnumberOfSelectedProducts(P02_LandingPage.java:54)] - numberOfSelectedProducts:6
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestSuccess(CustomITestResult.java:15)] - test casecheckingNumberOfSelectedProductsTcsuccess
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC02_LandingPage.setup(TC02_LandingPage.java:23)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC02_LandingPage.setup(TC02_LandingPage.java:25)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:11)] - test caseclickOnCartIconstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestSuccess(CustomITestResult.java:15)] - test caseclickOnCartIconsuccess
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC06_CompletePage.setup(TC06_CompletePage.java:31)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC06_CompletePage.setup(TC06_CompletePage.java:33)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:11)] - test casefinishingOrderstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber1
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:65)] - randomNumber6
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC06_CompletePage.finishingOrder(TC06_CompletePage.java:47)] - fTest-2025-02-15-9-8-01PM fTest-2025-02-15-9-8-01PM 58813
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestSuccess(CustomITestResult.java:15)] - test casefinishingOrdersuccess
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC01_LoginPage.setup(TC01_LoginPage.java:26)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC01_LoginPage.setup(TC01_LoginPage.java:28)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:11)] - test casevalidLoginTcstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestSuccess(CustomITestResult.java:15)] - test casevalidLoginTcsuccess
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.T02_LoginPageWithInvalidData.setup(T02_LoginPageWithInvalidData.java:27)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.T02_LoginPageWithInvalidData.setup(T02_LoginPageWithInvalidData.java:29)] - page isnt redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:11)] - test casevalidLoginTcstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestSuccess(CustomITestResult.java:15)] - test casevalidLoginTcsuccess
